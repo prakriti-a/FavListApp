@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fav List App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="alert_title">Enter the Category Name:</string>
+    <string name="pos_alert_btn">Create</string>
+    <string name="item_alert_title">Enter the Item Name:</string>
+    <string name="item_pos_btn">Create Item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
